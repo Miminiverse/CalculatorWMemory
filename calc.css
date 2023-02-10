@@ -1,0 +1,42 @@
+input[type="button"]
+{
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    border-color: black;
+    padding: 0.5px 5px;
+    text-align: center;
+    display: inline-block;
+    margin: 0 1px;
+    width: 100%;
+}
+.header {
+    font-size: 13px;
+
+}
+
+input[type="text"]
+{
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    text-align: right;
+    border-color: white;
+    padding-right: 20px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+tr, td {
+    border: thin solid;
+    padding: 2px 5px;
+}
+
+input[class="memory"] 
+{
+    color: white;
+    background-color: red;
+    border-color: red;
+}
